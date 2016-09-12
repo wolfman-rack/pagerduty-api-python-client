@@ -8,6 +8,7 @@ options = {
     'name': 'pypd',
     'version': __version__,
     'packages': ['pypd'],
+    'package_data': {'pypd' : ['models/*.py']},
     'scripts': [],
     'description': 'A python client for PagerDuty API',
     'author': 'JD Cumpson',
