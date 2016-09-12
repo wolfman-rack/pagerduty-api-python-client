@@ -1,1 +1,1 @@
-recursive-include models *.py
+recursive-include pypd/models *.py
